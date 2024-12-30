@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.3.0",
+    "ora": "^8.1.1",
+    "play-sound": "^1.1.6",
+    "pokemon": "^3.2.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
+}
